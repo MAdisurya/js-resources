@@ -1,6 +1,6 @@
 # Javascript Resources
 
-A collection of all JS-related resources for helping me get a better understanding of all things javascript.
+A collection of all JS-related resources that has helped me get a better understanding of all things javascript.
 
 ## Contents
 
