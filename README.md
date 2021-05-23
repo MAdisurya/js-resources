@@ -5,6 +5,7 @@ A collection of all JS-related resources that has helped me get a better underst
 ## Contents
 
 - General Javascript, NodeJS, V8, etc i.e. call stack, event loop, callback queue, job queue, render queue
+- Writing Javascript
 - Functional Programming
 
 ## General Javascript
@@ -20,6 +21,22 @@ A great article explaning JS event loops, call stack, event & job queue in JS. A
 [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
 An amazing talk from Philip Roberts in JSConf EU 2014. He gives a great explanation of JS event loops, call stack, event & job queues and how all of these integrates with one another.
+
+<br/>
+
+## Writing Javascript
+
+<br/>
+
+[Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+Great article on github created by Ryan Mcdermott. Pretty much discusses best practices in writing clean javascript code - talks about principles such as SOLID, SRP, etc.
+
+<br/>
+
+[Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
+
+Based off "Clean Code Javascript", but obviously, ported over for Typescript.
 
 <br/>
 
@@ -42,3 +59,5 @@ Another great talk by Anjana Vakil in JSConf EU 2017. Here, she explains the imp
 [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 
 A great book that goes into some depth for functional programming concepts. Haven't had a proper read (in the bucket list), but from an initial skim, looks like a great read.
+
+<br/>
