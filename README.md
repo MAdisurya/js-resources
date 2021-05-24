@@ -24,6 +24,12 @@ An amazing talk from Philip Roberts in JSConf EU 2014. He gives a great explanat
 
 <br/>
 
+[Understanding Deep and Shallow Copy in Javascript](https://medium.com/@manjuladube/understanding-deep-and-shallow-copy-in-javascript-13438bad941c)
+
+A great article explaining how deep and shallow copies work in Javascript, with some great examples and imagery.
+
+<br/>
+
 ## Writing Javascript
 
 <br/>
