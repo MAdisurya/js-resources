@@ -30,6 +30,12 @@ A great article explaining how deep and shallow copies work in Javascript, with 
 
 <br/>
 
+[wtfjs - a list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
+
+Great repo showcasing all the weird and tricky things JavaScript does i.e. for resolving certain expressions (`![] + [] // -> "false"`)
+
+<br/>
+
 ## Writing Javascript
 
 <br/>
