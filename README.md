@@ -73,3 +73,11 @@ Another great talk by Anjana Vakil in JSConf EU 2017. Here, she explains the imp
 A great book that goes into some depth for functional programming concepts. Haven't had a proper read (in the bucket list), but from an initial skim, looks like a great read.
 
 <br/>
+
+## Testing
+
+[Javascript & NodeJS Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+Some great points of "best practices" for writing solid js & nodejs tests that's lean, agile and provides great test coverage
+
+<br />
