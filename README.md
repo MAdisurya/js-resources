@@ -4,9 +4,10 @@ A collection of all JS-related resources that has helped me get a better underst
 
 ## Contents
 
-- General Javascript, NodeJS, V8, etc i.e. call stack, event loop, callback queue, job queue, render queue
-- Writing Javascript
-- Functional Programming
+- [General Javascript, NodeJS, V8, etc i.e. call stack, event loop, callback queue, job queue, render queue](https://github.com/MAdisurya/js-resources#general-javascriptt)
+- [Writing Javascript](https://github.com/MAdisurya/js-resources#writing-javascript)
+- [Functional Programming](https://github.com/MAdisurya/js-resources#functional-programming)
+- [Testing](https://github.com/MAdisurya/js-resources#testing)
 
 ## General Javascript
 
