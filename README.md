@@ -77,7 +77,7 @@ A great book that goes into some depth for functional programming concepts. Have
 
 [A practical guide to writing more functional javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
 
-A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript. This artical specifically covers the use of composition in a real-world case
+A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript. This article specifically covers the use of composition in a real-world case
 
 <br/>
 
